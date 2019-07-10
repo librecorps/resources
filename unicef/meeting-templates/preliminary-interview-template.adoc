@@ -1,0 +1,62 @@
+= Preliminary interview template
+
+image::https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg[License: CC BY-SA 4.0, link=https://creativecommons.org/licenses/by-sa/4.0/]
+
+This document is used as a reference when conducting interviews with the https://unicefinnovationfund.org/[UNICEF Innovation Fund] cohorts.
+The interviews help us collect background and context for each team's experience and familiarity with open source and participating in open source communities.
+This template provides some structure and guidance on what questions to ask and understand about each team.
+
+
+== Current situation
+
+This section helps us understand where each team is at the moment.
+
+. What is your product elevator pitch? (i.e. describe project in 2-3 sentences)
+. What milestones are you currently working towards?
+. How much of your project is currently open source?
+. If you could grade how well your team does open source, what grade would you give yourself and why?
+. Any open source challenges that are already on your mind?
+. How many people on your team have prior experience with open source development?
+. Do you have an upstream and/or user community?
+
+
+== Project management
+
+This section helps us understand how each team manages their project work and what methods/practices they use.
+
+. Do you use a project management method like waterfall or agile?
+. Do you hold daily or weekly meetings to track progress with the core development team?
+. Are these meetings or meeting notes recorded anywhere?
+. What tools do you currently use for project management (e.g. Trello)?
+
+
+== Testing / code health
+
+This section helps us understand how each team is writing code and if they are in a habit of writing tests for their code.
+Writing tests is important because this supports other ways to grow a community of people around the project later.
+Tests enable others to make small changes to a project and feel confident that their change works as expected before they submit a contribution.
+It also supports using other tools like continuous integration or test gating.
+
+. Do core developers regularly write unit or functional tests?
+. About what percentage of your code base is tested?
+. What testing framework is used?
+. Do you use any code health checking tools in your current workflow?
+. Did you receive peer reviews on your code base in the last three months by someone outside of your organization?
+. Do you use any automation tools to deploy your project? (e.g. Ansible, Chef, Docker containers, etc.)
+
+
+== Documentation
+
+This section helps us understand the documentation culture within each cohort.
+Some teams may do this better than others, and these questions help us evaluate where each team is in terms of writing great documentation.
+
+. Do all open source repositories have a README with an explanation of what the project does and why?
+. Do any projects have a written, documented guide that explain how to create a development environment?
+
+
+== Miscellaneous
+
+This can be any questions we think are worth asking but don't fit into another category.
+
+. What would need to happen for you to focus more on improving the transparency and open source community of your project?
+. What does success look like in a world where you have released your project as open source?
