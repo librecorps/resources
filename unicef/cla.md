@@ -15,10 +15,11 @@ This is considered by most to fulfill the need of a CLA.
 **What alternatives exist for CLAs?**
 
 Other than the terms of service provided by Github, the Linux Foundation introduced a Developer Certificate of Origin (DCO) as a more lightweight method to have developers waive their rights.
-Instead of maintaining a database of signed contracts, users can simply sign[using specific formatting of commit messages](https://probot.github.io/apps/dco/).
+Instead of maintaining a database of signed contracts, users can simply sign[using specific formatting of commit messages](https://probot.github.io/apps/dco/) __provided a project publishes a CLA/DCO in its repository.__
 
 **What do I need to develop my own CLA?**
 
 Unlike licenses, CLAs are not as standardized due to their lack of popularity.
 Apache[has an individual CLA](https://www.apache.org/licenses/icla.pdf) which can be taken and modified. 
+Fedora [also has an "open-source friendly" CLA](https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement) which can serve as a reference for an easily understandable individual CLA.
 I would recommend working with a lawyer to modify the document to ensure that there is clarity on which rights you expect contributors to waive.
