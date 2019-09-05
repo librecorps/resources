@@ -1,4 +1,4 @@
-baseURL = "https://nolski.github.io/example-librecorps-site/"
+baseURL = "https://librecorps.github.io/resources/"
 theme = "dot-hugo-documentation-theme"
 publishDir = "docs"
 defaultContentLanguage = "en"
