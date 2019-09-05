@@ -1,0 +1,124 @@
+baseURL = "https://nolski.github.io/example-librecorps-site/"
+theme = "dot-hugo-documentation-theme"
+publishDir = "docs"
+defaultContentLanguage = "en"
+home = "/"
+
+[params]
+primaryColor = "#02007e"
+secondaryColor = "#f9f9f9"
+textColor = "#636363"
+textColorDark = "#242738"
+whiteColor = "#ffffff"
+
+[Languages]
+
+  # English Language
+  [Languages.en]
+  languageName = "En"
+  weight = 1
+  languageCode = "en"
+  title = "LibreCorps Resources"
+  dateFormat = "2 January 2006"
+  home = "Home"
+  logo = "LibreCorps"
+  copyright = "TODO: Put license information here"
+
+    # navigation
+    [Languages.en.menu]
+    
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "Faq"
+        url = "faq"
+        
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "contact"
+        url = "contact"
+        
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "pages"
+        url = "pages"
+        hasChildren = true
+
+          [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "Community Strategy"
+          url = "community"
+          weight = 2
+
+          [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "FOSS Product Management"
+          url = "product-management"
+          weight = 3
+
+          [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "AI Ethics & Transparency"
+          url = "ai"
+          weight = 4
+
+          [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "Tooling & Automation"
+          url = "tooling"
+          weight = 5
+
+          [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "Outreach & Marketing"
+          url = "outreach"
+          weight = 6
+
+          [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "Legal"
+          url = "legal"
+          weight = 7
+
+
+
+
+    # banner
+    [Languages.en.params.banner]
+      title = "LibreCorps Knowledge Base"
+      description = "Here you can find a comprehensive database of resources related to the LibreCorps program"
+      image = "images/banner.jpg"
+      placeholder = "Have a question? Just ask here or enter terms"
+
+    # Topics
+    [Languages.en.params.topics]
+      title = "Find your answer by subject"
+    
+    # call to action
+    [Languages.en.params.cta]
+      enable = true
+      title = "Didn't find an answer to your question?"
+      description = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+      btnText = "contact us"
+      btnURL = "contact"
+
+    # contact
+    [Languages.en.params.contact]
+      title = "Got Any Questions"
+      content = "Submit the form and confirm your email address at <a class='text-primary' href='https://formspree.io/'>Formspree</a> Then add the following lines to contact page YAML Front Matter."
+
+    # footer social icon
+    [[Languages.en.socialIcon]]
+      icon = "ti-facebook"
+      linkURL = "#"
+
+    [[Languages.en.socialIcon]]
+      icon = "ti-twitter-alt"
+      linkURL = "#"
+      
+    [[Languages.en.socialIcon]]
+      icon = "ti-vimeo-alt"
+      linkURL = "#"
+      
+    [[Languages.en.socialIcon]]
+      icon = "ti-instagram"
+      linkURL = "#"

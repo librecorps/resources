@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on LibreCorps Resources</title>
+    <link>https://nolski.github.io/example-librecorps-site/contact/</link>
+    <description>Recent content in Contact on LibreCorps Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>TODO: Put license information here</copyright>
+    <lastBuildDate>Thu, 27 Dec 2018 09:10:27 +0600</lastBuildDate>
+    
+	<atom:link href="https://nolski.github.io/example-librecorps-site/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
