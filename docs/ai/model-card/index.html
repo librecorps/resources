@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <title>Preliminary Interview Template</title>
+  <title>Machine Learning Model Card</title>
 
   <meta name="generator" content="Hugo 0.55.6" />
 
@@ -119,19 +119,19 @@
             
             <nav class="sidebar-menu">
               <ul class="list-styled">
-            <li class="parent d-block "><a href="https://librecorps.github.io/resources/product-management/">Product Management</a>
-              <ul class="sub-menu">
-            <li class=" active "><a href="https://librecorps.github.io/resources/product-management/preliminary-interview-template/">Preliminary Interview Template</a>
+            <li class=""><a href="https://librecorps.github.io/resources/product-management/">Product Management</a>
+              <ul class="">
+            <li class=""><a href="https://librecorps.github.io/resources/product-management/preliminary-interview-template/">Preliminary Interview Template</a>
             </li></ul>
               
             </li>
-            <li class=""><a href="https://librecorps.github.io/resources/ai/">AI Ethics &amp; Transparency</a>
-              <ul class="">
+            <li class="parent d-block "><a href="https://librecorps.github.io/resources/ai/">AI Ethics &amp; Transparency</a>
+              <ul class="sub-menu">
             <li class=""><a href="https://librecorps.github.io/resources/ai/milestone-roadmap/">AI Ethics &amp; Transparency Roadmap Template</a>
             </li>
             <li class=""><a href="https://librecorps.github.io/resources/ai/traps/">Common Traps When Building AI Systems</a>
             </li>
-            <li class=""><a href="https://librecorps.github.io/resources/ai/model-card/">Machine Learning Model Card</a>
+            <li class=" active "><a href="https://librecorps.github.io/resources/ai/model-card/">Machine Learning Model Card</a>
             </li></ul>
               
             </li>
@@ -164,115 +164,98 @@
       </div>
       <div class="col-lg-9">
         <div class="p-5 bg-white">
-            <h2>Preliminary Interview Template</h2>
+            <h2>Machine Learning Model Card</h2>
             
 
-<img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC BY-SA 4.0" style="width: 150px !important;" />
+<h2 id="model-title"><strong>Model Title</strong></h2>
 
+<p><em>The following is simply an editable version of the model card proposed in</em> <a href="https://arxiv.org/abs/1810.03993"><em>https://arxiv.org/abs/1810.03993</em></a></p>
 
-<p>This document is used as a reference when conducting interviews with the
-<a href="https://unicefinnovationfund.org/">UNICEF Innovation Fund</a> cohorts. The
-interviews help us collect background and context for each team’s
-experience and familiarity with open source and participating in open
-source communities. This template provides some structure and guidance
-on what questions to ask and understand about each team.</p>
+<p><em>Model Details.</em></p>
 
-<h1 id="current-situation">Current situation</h1>
+<p>Basic information about the model.</p>
 
-<p>This section helps us understand where each team is at the moment.</p>
+<ul>
+<li>Person or organization developing model</li>
+<li>Date of last update</li>
+<li>Model version</li>
+<li>Model type (Information about training algorithms, parameters, fairness constraints or other applied approaches, and features)</li>
+<li>Paper or other resource for more information</li>
+<li>Citation details</li>
+<li>License</li>
+<li>Maintainer contact details</li>
+</ul>
 
-<ol>
-<li><p>What is your product elevator pitch? (i.e. describe project in 2-3
-sentences)</p></li>
+<p><em>Intended Use</em></p>
 
-<li><p>What milestones are you currently working towards?</p></li>
+<p>Use cases that were envisioned during development.</p>
 
-<li><p>How much of your project is currently open source?</p></li>
+<ul>
+<li>Primary intended uses</li>
+<li>Primary intended users</li>
+<li>Out-of-scope use cases</li>
+</ul>
 
-<li><p>If you could grade how well your team does open source, what grade
-would you give yourself and why?</p></li>
+<p><em>Factors</em></p>
 
-<li><p>Any open source challenges that are already on your mind?</p></li>
+<p>Factors could include demographic or phenotypic groups, environmental conditions, technical attributes, or others.</p>
 
-<li><p>How many people on your team have prior experience with open source
-development?</p></li>
+<ul>
+<li>Relevant factors</li>
+<li>Evaluation factors</li>
+</ul>
 
-<li><p>Do you have an upstream and/or user community?</p></li>
-</ol>
+<p><em>Metrics</em></p>
 
-<h1 id="project-management">Project management</h1>
+<p>Metrics should be chosen to reflect potential real-world impacts of the model.</p>
 
-<p>This section helps us understand how each team manages their project
-work and what methods/practices they use.</p>
+<ul>
+<li>Model performance measures</li>
+<li>Decision thresholds</li>
+<li>Variation approaches</li>
+</ul>
 
-<ol>
-<li><p>Do you use a project management method like waterfall or agile?</p></li>
+<p><em>Evaluation Data</em></p>
 
-<li><p>Do you hold daily or weekly meetings to track progress with the core
-development team?</p></li>
+<p>Details on the dataset(s) used for the quantitative analyses in the card.</p>
 
-<li><p>Are these meetings or meeting notes recorded anywhere?</p></li>
+<ul>
+<li>Datasets</li>
+<li>Motivation</li>
+<li>Preprocessing</li>
+</ul>
 
-<li><p>What tools do you currently use for project management (e.g.
-Trello)?</p></li>
-</ol>
+<p><em>Training Data.</em></p>
 
-<h1 id="testing-code-health">Testing / code health</h1>
+<p>May not be possible to provide in practice. When possible, this section should mirror Evaluation Data. If such detail is not possible, minimal allowable information should be provided here, such as details of the distribution over various factors in the training datasets.</p>
 
-<p>This section helps us understand how each team is writing code and if
-they are in a habit of writing tests for their code. Writing tests is
-important because this supports other ways to grow a community of people
-around the project later. Tests enable others to make small changes to a
-project and feel confident that their change works as expected before
-they submit a contribution. It also supports using other tools like
-continuous integration or test gating.</p>
+<p><em>Quantitative Analyses</em></p>
 
-<ol>
-<li><p>Do core developers regularly write unit or functional tests?</p></li>
+<p>Quantitative analyses should be broken down by the chosen factors.</p>
 
-<li><p>About what percentage of your code base is tested?</p></li>
+<ul>
+<li>Unitary results</li>
+<li>Intersectional results</li>
+</ul>
 
-<li><p>What testing framework is used?</p></li>
+<p><em>Ethical Considerations</em></p>
 
-<li><p>Do you use any code health checking tools in your current workflow?</p></li>
+<p>In this section, you should explore and document the following:</p>
 
-<li><p>Did you receive peer reviews on your code base in the last three
-months by someone outside of your organization?</p></li>
+<ul>
+<li><strong>Sensitive Data</strong> <em>: Does the model use any sensitive data (e.g., protected classes)?</em></li>
+<li><strong>Human life</strong> <em>: Is the model intended to inform decisions about matters central to human life or flourishing – e.g., health or safety? Or could it be used in such a way?</em></li>
+<li><strong>Mitigations</strong> <em>: What risk mitigation strategies were used during model development?</em></li>
+<li><strong>Risks and harms</strong> <em>: What risks may be present in model usage? Try to identify the potential recipients, likelihood, and magnitude of harms. If these cannot be determined, note that they were considered but remain unknown.</em></li>
+<li><strong>Use cases</strong> <em>: Are there any known model use cases that are especially fraught?</em></li>
+</ul>
 
-<li><p>Do you use any automation tools to deploy your project? (e.g.
-Ansible, Chef, Docker containers, etc.)</p></li>
-</ol>
+<p><em>Caveats and Recommendations</em></p>
 
-<h1 id="documentation">Documentation</h1>
+<p>This section should list additional concerns that were not covered in the previous sections.</p>
 
-<p>This section helps us understand the documentation culture within each
-cohort. Some teams may do this better than others, and these questions
-help us evaluate where each team is in terms of writing great
-documentation.</p>
-
-<ol>
-<li><p>Do all open source repositories have a README with an explanation of
-what the project does and why?</p></li>
-
-<li><p>Do any projects have a written, documented guide that explain how to
-create a development environment?</p></li>
-</ol>
-
-<h1 id="miscellaneous">Miscellaneous</h1>
-
-<p>This can be any questions we think are worth asking but don’t fit into
-another category.</p>
-
-<ol>
-<li><p>What would need to happen for you to focus more on improving the
-transparency and open source community of your project?</p></li>
-
-<li><p>What does success look like in a world where you have released your
-project as open source?</p></li>
-</ol>
-
-            <p class="post-meta border-bottom pb-3 mb-0">Updated on 29 Dec 2018</p><nav class="pagination mt-3"><a class="nav nav-prev" href="https://librecorps.github.io/resources/product-management/" title="Product Management"><i class="ti-arrow-left mr-2"></i>Product Management</a>
-            <a class="nav nav-next" href="https://librecorps.github.io/resources/ai/" title="AI Ethics &amp; Transparency">AI Ethics &amp; Transparency<i class="ti-arrow-right ml-2"></i></a>
+            <p class="post-meta border-bottom pb-3 mb-0">Updated on 03 Sep 2019</p><nav class="pagination mt-3"><a class="nav nav-prev" href="https://librecorps.github.io/resources/ai/traps/" title="Common Traps When Building AI Systems"><i class="ti-arrow-left mr-2"></i>Common Traps When Building AI Systems</a>
+            <a class="nav nav-next" href="https://librecorps.github.io/resources/community/" title="Community Strategy">Community Strategy<i class="ti-arrow-right ml-2"></i></a>
             </nav></div>
       </div>
     </div>

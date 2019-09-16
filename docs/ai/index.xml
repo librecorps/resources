@@ -2,64 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Ethics &amp; Transparency on LibreCorps Resources</title>
-    <link>https://nolski.github.io/example-librecorps-site/ai/</link>
+    <link>https://librecorps.github.io/resources/ai/</link>
     <description>Recent content in AI Ethics &amp; Transparency on LibreCorps Resources</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>TODO: Put license information here</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://nolski.github.io/example-librecorps-site/ai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://librecorps.github.io/resources/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Linux</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/linux/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      <title>AI Ethics &amp; Transparency Roadmap Template</title>
+      <link>https://librecorps.github.io/resources/ai/milestone-roadmap/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://nolski.github.io/example-librecorps-site/ai/linux/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+      <guid>https://librecorps.github.io/resources/ai/milestone-roadmap/</guid>
+      <description>Team Name AI Transparency Roadmap Executive Summary
+This is your at a glance version of the document. Details and resources attached
+ Milestone 1 - Understanding the Data Flow  Data Ecosystem Map - Open Ticket Information Sharing Protocol - Open Ticket  Milestone 2 - Understanding the Algorithm  Dataset Structure - Open Ticket Common Traps Mitigations - Open Ticket  Milestone 3 - Sharing the Model  Model Card Created - Open Ticket   Understanding Data Flow</description>
     </item>
     
     <item>
-      <title>Mac OS</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/mac/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      <title>Common Traps When Building AI Systems</title>
+      <link>https://librecorps.github.io/resources/ai/traps/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://nolski.github.io/example-librecorps-site/ai/mac/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+      <guid>https://librecorps.github.io/resources/ai/traps/</guid>
+      <description>Avoiding Common ML Traps Assessing common mistakes that lead to unintended side effects.
+The Framing Trap
+Failure to model the entire system over which a social criterion, such as fairness, will be enforced.
+For this trap, we will want to look at our outcome variables. Are these variables a proxy of the actual outcome you wish to achieve? What evidence of existing negative bias currently exists with regards to these variables?</description>
     </item>
     
     <item>
-      <title>Routing</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/routing/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      <title>Machine Learning Model Card</title>
+      <link>https://librecorps.github.io/resources/ai/model-card/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://nolski.github.io/example-librecorps-site/ai/routing/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/ubuntu/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://nolski.github.io/example-librecorps-site/ai/ubuntu/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
-    </item>
-    
-    <item>
-      <title>Windows</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/windows/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://nolski.github.io/example-librecorps-site/ai/windows/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+      <guid>https://librecorps.github.io/resources/ai/model-card/</guid>
+      <description>Model Title The following is simply an editable version of the model card proposed in https://arxiv.org/abs/1810.03993
+Model Details.
+Basic information about the model.
+ Person or organization developing model Date of last update Model version Model type (Information about training algorithms, parameters, fairness constraints or other applied approaches, and features) Paper or other resource for more information Citation details License Maintainer contact details  Intended Use
+Use cases that were envisioned during development.</description>
     </item>
     
   </channel>

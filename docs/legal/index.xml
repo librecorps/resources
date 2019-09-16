@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal on LibreCorps Resources</title>
+    <link>https://librecorps.github.io/resources/legal/</link>
+    <description>Recent content in Legal on LibreCorps Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>TODO: Put license information here</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="https://librecorps.github.io/resources/legal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributors License Agreements</title>
+      <link>https://librecorps.github.io/resources/legal/cla/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/legal/cla/</guid>
+      <description>What are CLAs used for?
+So a Contributor License Agreement is often seen being used in open source projects to form a legal agreement between an individual or company and a project maintainer. This agreement usually includes a waiver of copyright as well as the right to patent their contribution.
+CLAs became popular during the early days of open source and Free software. Prior to the growth of platforms such as Github and GitLab patches were often emailed to mailing lists and accepted by maintainers as such.</description>
+    </item>
+    
+  </channel>
+</rss>

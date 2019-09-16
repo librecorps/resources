@@ -2,22 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LibreCorps Resources</title>
-    <link>https://nolski.github.io/example-librecorps-site/</link>
+    <link>https://librecorps.github.io/resources/</link>
     <description>Recent content on LibreCorps Resources</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>TODO: Put license information here</copyright>
-    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://nolski.github.io/example-librecorps-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://librecorps.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>AI Ethics &amp; Transparency Roadmap Template</title>
+      <link>https://librecorps.github.io/resources/ai/milestone-roadmap/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/ai/milestone-roadmap/</guid>
+      <description>Team Name AI Transparency Roadmap Executive Summary
+This is your at a glance version of the document. Details and resources attached
+ Milestone 1 - Understanding the Data Flow  Data Ecosystem Map - Open Ticket Information Sharing Protocol - Open Ticket  Milestone 2 - Understanding the Algorithm  Dataset Structure - Open Ticket Common Traps Mitigations - Open Ticket  Milestone 3 - Sharing the Model  Model Card Created - Open Ticket   Understanding Data Flow</description>
+    </item>
+    
+    <item>
+      <title>Common Traps When Building AI Systems</title>
+      <link>https://librecorps.github.io/resources/ai/traps/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/ai/traps/</guid>
+      <description>Avoiding Common ML Traps Assessing common mistakes that lead to unintended side effects.
+The Framing Trap
+Failure to model the entire system over which a social criterion, such as fairness, will be enforced.
+For this trap, we will want to look at our outcome variables. Are these variables a proxy of the actual outcome you wish to achieve? What evidence of existing negative bias currently exists with regards to these variables?</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Model Card</title>
+      <link>https://librecorps.github.io/resources/ai/model-card/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/ai/model-card/</guid>
+      <description>Model Title The following is simply an editable version of the model card proposed in https://arxiv.org/abs/1810.03993
+Model Details.
+Basic information about the model.
+ Person or organization developing model Date of last update Model version Model type (Information about training algorithms, parameters, fairness constraints or other applied approaches, and features) Paper or other resource for more information Citation details License Maintainer contact details  Intended Use
+Use cases that were envisioned during development.</description>
+    </item>
+    
+    <item>
+      <title>Open Source Reading List</title>
+      <link>https://librecorps.github.io/resources/community/reading-list/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/community/reading-list/</guid>
+      <description>Introduction to FOSS
+ Open Source GuidesGitHub.com
+ Introduction to Open SourceDigital Ocean
+ FAQ in FOSSOpensource.com
+  Project Management
+ Why (some) agile teams fail - Jen Krieger @mrry550
+ How we organize GitHub issues: A simple styleguide for tagging - Zach Dunn @zachdunn
+  Documentation
+ Your step-by-step guide to more effective documentation - Lauri Apple @LappleApple
+ A template for creating open source contributor guidelines - Safia Abdalla @captainsafia</description>
+    </item>
+    
+    <item>
       <title>Contributors License Agreements</title>
-      <link>https://nolski.github.io/example-librecorps-site/community/cla/</link>
+      <link>https://librecorps.github.io/resources/legal/cla/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://nolski.github.io/example-librecorps-site/community/cla/</guid>
+      <guid>https://librecorps.github.io/resources/legal/cla/</guid>
       <description>What are CLAs used for?
 So a Contributor License Agreement is often seen being used in open source projects to form a legal agreement between an individual or company and a project maintainer. This agreement usually includes a waiver of copyright as well as the right to patent their contribution.
 CLAs became popular during the early days of open source and Free software. Prior to the growth of platforms such as Github and GitLab patches were often emailed to mailing lists and accepted by maintainers as such.</description>
@@ -25,62 +79,12 @@ CLAs became popular during the early days of open source and Free software. Prio
     
     <item>
       <title>Preliminary Interview Template</title>
-      <link>https://nolski.github.io/example-librecorps-site/product-management/preliminary-interview-template/</link>
+      <link>https://librecorps.github.io/resources/product-management/preliminary-interview-template/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://nolski.github.io/example-librecorps-site/product-management/preliminary-interview-template/</guid>
+      <guid>https://librecorps.github.io/resources/product-management/preliminary-interview-template/</guid>
       <description>This document is used as a reference when conducting interviews with the UNICEF Innovation Fund cohorts. The interviews help us collect background and context for each team’s experience and familiarity with open source and participating in open source communities. This template provides some structure and guidance on what questions to ask and understand about each team.
 Current situation This section helps us understand where each team is at the moment.</description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/linux/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://nolski.github.io/example-librecorps-site/ai/linux/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
-    </item>
-    
-    <item>
-      <title>Mac OS</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/mac/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://nolski.github.io/example-librecorps-site/ai/mac/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
-    </item>
-    
-    <item>
-      <title>Routing</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/routing/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://nolski.github.io/example-librecorps-site/ai/routing/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/ubuntu/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://nolski.github.io/example-librecorps-site/ai/ubuntu/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
-    </item>
-    
-    <item>
-      <title>Windows</title>
-      <link>https://nolski.github.io/example-librecorps-site/ai/windows/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://nolski.github.io/example-librecorps-site/ai/windows/</guid>
-      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
     </item>
     
   </channel>

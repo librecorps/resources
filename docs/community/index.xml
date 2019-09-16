@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community Strategy on LibreCorps Resources</title>
-    <link>https://nolski.github.io/example-librecorps-site/community/</link>
+    <link>https://librecorps.github.io/resources/community/</link>
     <description>Recent content in Community Strategy on LibreCorps Resources</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>TODO: Put license information here</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://nolski.github.io/example-librecorps-site/community/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://librecorps.github.io/resources/community/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Contributors License Agreements</title>
-      <link>https://nolski.github.io/example-librecorps-site/community/cla/</link>
-      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      <title>Open Source Reading List</title>
+      <link>https://librecorps.github.io/resources/community/reading-list/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
       
-      <guid>https://nolski.github.io/example-librecorps-site/community/cla/</guid>
-      <description>What are CLAs used for?
-So a Contributor License Agreement is often seen being used in open source projects to form a legal agreement between an individual or company and a project maintainer. This agreement usually includes a waiver of copyright as well as the right to patent their contribution.
-CLAs became popular during the early days of open source and Free software. Prior to the growth of platforms such as Github and GitLab patches were often emailed to mailing lists and accepted by maintainers as such.</description>
+      <guid>https://librecorps.github.io/resources/community/reading-list/</guid>
+      <description>Introduction to FOSS
+ Open Source GuidesGitHub.com
+ Introduction to Open SourceDigital Ocean
+ FAQ in FOSSOpensource.com
+  Project Management
+ Why (some) agile teams fail - Jen Krieger @mrry550
+ How we organize GitHub issues: A simple styleguide for tagging - Zach Dunn @zachdunn
+  Documentation
+ Your step-by-step guide to more effective documentation - Lauri Apple @LappleApple
+ A template for creating open source contributor guidelines - Safia Abdalla @captainsafia</description>
     </item>
     
   </channel>
