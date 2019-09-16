@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LibreCorps Resources</title>
+    <link>https://nolski.github.io/example-librecorps-site/</link>
+    <description>Recent content on LibreCorps Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>TODO: Put license information here</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="https://nolski.github.io/example-librecorps-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributors License Agreements</title>
+      <link>https://nolski.github.io/example-librecorps-site/community/cla/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://nolski.github.io/example-librecorps-site/community/cla/</guid>
+      <description>What are CLAs used for?
+So a Contributor License Agreement is often seen being used in open source projects to form a legal agreement between an individual or company and a project maintainer. This agreement usually includes a waiver of copyright as well as the right to patent their contribution.
+CLAs became popular during the early days of open source and Free software. Prior to the growth of platforms such as Github and GitLab patches were often emailed to mailing lists and accepted by maintainers as such.</description>
+    </item>
+    
+    <item>
+      <title>Preliminary Interview Template</title>
+      <link>https://nolski.github.io/example-librecorps-site/product-management/preliminary-interview-template/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://nolski.github.io/example-librecorps-site/product-management/preliminary-interview-template/</guid>
+      <description>This document is used as a reference when conducting interviews with the UNICEF Innovation Fund cohorts. The interviews help us collect background and context for each team’s experience and familiarity with open source and participating in open source communities. This template provides some structure and guidance on what questions to ask and understand about each team.
+Current situation This section helps us understand where each team is at the moment.</description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://nolski.github.io/example-librecorps-site/ai/linux/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://nolski.github.io/example-librecorps-site/ai/linux/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+    </item>
+    
+    <item>
+      <title>Mac OS</title>
+      <link>https://nolski.github.io/example-librecorps-site/ai/mac/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://nolski.github.io/example-librecorps-site/ai/mac/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+    </item>
+    
+    <item>
+      <title>Routing</title>
+      <link>https://nolski.github.io/example-librecorps-site/ai/routing/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://nolski.github.io/example-librecorps-site/ai/routing/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://nolski.github.io/example-librecorps-site/ai/ubuntu/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://nolski.github.io/example-librecorps-site/ai/ubuntu/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://nolski.github.io/example-librecorps-site/ai/windows/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://nolski.github.io/example-librecorps-site/ai/windows/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+A simple primary alert—check it out!  Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.</description>
+    </item>
+    
+  </channel>
+</rss>
