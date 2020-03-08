@@ -44,7 +44,7 @@ Workflow
 
 - [A Free Guide for Setting Your Open Source Strategy](https://www.linuxfoundation.org/blog/2018/11/a-free-guide-for-setting-your-open-source-strategy/) - Linux Foundation
 
-- [6 steps to perfecting an open source product strategy](https://opensource.com/article/17/9/demystifying-open-source-product-strategy) - [Michael DeHann](https://twitter.com/laserllama) @ opensource.com
+- [6 steps to perfecting an open source product strategy](https://opensource.com/article/17/9/demystifying-open-source-product-strategy) - [Michael DeHaan](https://twitter.com/laserllama) @ opensource.com
 
 - [Producing Open Source Software](https://producingoss.com/en/index.html) by Karl Fogel ( **has resources on all major topics here** )
 
