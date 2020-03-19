@@ -1,6 +1,5 @@
 baseURL = "https://librecorps.github.io/resources/"
 theme = "dot-hugo-documentation-theme"
-publishDir = "docs"
 defaultContentLanguage = "en"
 home = "/"
 
@@ -26,17 +25,17 @@ whiteColor = "#ffffff"
 
     # navigation
     [Languages.en.menu]
-    
+
       [[Languages.en.menu.main]]
         weight = 2
         name = "Faq"
         url = "faq"
-        
+
       [[Languages.en.menu.main]]
         weight = 2
         name = "contact"
         url = "contact"
-        
+
       [[Languages.en.menu.main]]
         weight = 2
         name = "pages"
@@ -92,7 +91,7 @@ whiteColor = "#ffffff"
     # Topics
     [Languages.en.params.topics]
       title = "Find your answer by subject"
-    
+
     # call to action
     [Languages.en.params.cta]
       enable = true
@@ -114,11 +113,11 @@ whiteColor = "#ffffff"
     [[Languages.en.socialIcon]]
       icon = "ti-twitter-alt"
       linkURL = "#"
-      
+
     [[Languages.en.socialIcon]]
       icon = "ti-vimeo-alt"
       linkURL = "#"
-      
+
     [[Languages.en.socialIcon]]
       icon = "ti-instagram"
       linkURL = "#"
