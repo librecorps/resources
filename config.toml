@@ -76,13 +76,13 @@ whiteColor = "#ffffff"
     # banner
     [Languages.en.params.banner]
       title = "LibreCorps Knowledge Base"
-      description = "Here you can find a comprehensive database of resources related to the LibreCorps program"
+      description = "Resources for building sustainable open source projects, curated by RIT LibreCorps"
       image = "images/banner.jpg"
-      placeholder = "Have a question? Just ask here or enter terms"
+      placeholder = "Have a question? Search our resources"
 
     # Topics
     [Languages.en.params.topics]
-      title = "Find your answer by subject"
+      title = "Browse by category"
 
     # footer social icon
     [[Languages.en.socialIcon]]
