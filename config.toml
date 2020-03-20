@@ -86,12 +86,12 @@ whiteColor = "#ffffff"
 
     # footer social icon
     [[Languages.en.socialIcon]]
-      icon = "ti-facebook"
-      linkURL = "#"
+      icon = "ti-github"
+      linkURL = "https://github.com/librecorps/"
 
     [[Languages.en.socialIcon]]
       icon = "ti-twitter-alt"
-      linkURL = "#"
+      linkURL = "https://twitter.com/jflory7"
 
     [[Languages.en.socialIcon]]
       icon = "ti-vimeo-alt"
