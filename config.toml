@@ -33,11 +33,6 @@ whiteColor = "#ffffff"
 
       [[Languages.en.menu.main]]
         weight = 2
-        name = "contact"
-        url = "contact"
-
-      [[Languages.en.menu.main]]
-        weight = 2
         name = "pages"
         url = "pages"
         hasChildren = true
@@ -78,9 +73,6 @@ whiteColor = "#ffffff"
           url = "legal"
           weight = 7
 
-
-
-
     # banner
     [Languages.en.params.banner]
       title = "LibreCorps Knowledge Base"
@@ -91,19 +83,6 @@ whiteColor = "#ffffff"
     # Topics
     [Languages.en.params.topics]
       title = "Find your answer by subject"
-
-    # call to action
-    [Languages.en.params.cta]
-      enable = true
-      title = "Didn't find an answer to your question?"
-      description = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
-      btnText = "contact us"
-      btnURL = "contact"
-
-    # contact
-    [Languages.en.params.contact]
-      title = "Got Any Questions"
-      content = "Submit the form and confirm your email address at <a class='text-primary' href='https://formspree.io/'>Formspree</a> Then add the following lines to contact page YAML Front Matter."
 
     # footer social icon
     [[Languages.en.socialIcon]]
