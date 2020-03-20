@@ -28,7 +28,7 @@ whiteColor = "#ffffff"
 
       [[Languages.en.menu.main]]
         weight = 2
-        name = "Faq"
+        name = "FAQ"
         url = "faq"
 
       [[Languages.en.menu.main]]
