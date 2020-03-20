@@ -21,7 +21,7 @@ whiteColor = "#ffffff"
   dateFormat = "2 January 2006"
   home = "Home"
   logo = "LibreCorps"
-  copyright = "TODO: Put license information here"
+  copyright = "Creative Commons BY-NC-SA 4.0"
 
     # navigation
     [Languages.en.menu]
