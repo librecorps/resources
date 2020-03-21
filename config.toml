@@ -1,102 +1,107 @@
+################################# Default configuration ###################
 baseURL = "https://librecorps.github.io/resources/"
 theme = "dot"
-defaultContentLanguage = "en"
-home = "/"
+title = "LibreCorps Resources"
 
+[markup.goldmark.renderer]
+unsafe = true
+
+
+################################# Navigation ################################
+[[menu.main]]
+weight = 10
+name = "FAQ"
+url = "faq"
+
+[[menu.main]]
+weight = 20
+name = "pages"
+url = "pages"
+hasChildren = true
+
+      [[menu.main]]
+      parent = "pages"
+      name = "Community Strategy"
+      url = "community"
+      weight = 10
+
+      [[menu.main]]
+      parent = "pages"
+      name = "FOSS Product Management"
+      url = "product-management"
+      weight = 20
+
+      [[menu.main]]
+      parent = "pages"
+      name = "AI Ethics & Transparency"
+      url = "ai"
+      weight = 30
+
+      [[menu.main]]
+      parent = "pages"
+      name = "Tooling & Automation"
+      url = "tooling"
+      weight = 40
+
+      [[menu.main]]
+      parent = "pages"
+      name = "Outreach & Marketing"
+      url = "outreach"
+      weight = 50
+
+      [[menu.main]]
+      parent = "pages"
+      name = "Legal"
+      url = "legal"
+      weight = 60
+
+
+############################# Default parameters ##########################
 [params]
-primaryColor = "#02007e"
-secondaryColor = "#f9f9f9"
-textColor = "#636363"
-textColorDark = "#242738"
-whiteColor = "#ffffff"
+logo = "LibreCorps"
 
-[Languages]
+# customize color
+primary_color = "#02007e"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
 
-  # English Language
-  [Languages.en]
-  languageName = "En"
-  weight = 1
-  languageCode = "en"
-  title = "LibreCorps Resources"
-  dateFormat = "2 January 2006"
-  home = "Home"
-  logo = "LibreCorps"
-  copyright = "Creative Commons BY-NC-SA 4.0"
+# font family (choose from https://fonts.google.com/)
+font_family = "Public+Sans"
 
-    # navigation
-    [Languages.en.menu]
+# contact form action (works with https://formspree.io)
+contact_form_action = "#"
 
-      [[Languages.en.menu.main]]
-        weight = 2
-        name = "FAQ"
-        url = "faq"
 
-      [[Languages.en.menu.main]]
-        weight = 2
-        name = "pages"
-        url = "pages"
-        hasChildren = true
+############################## Social links ##############################
+# themify icon pack : https://themify.me/themify-icons
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "Community Strategy"
-          url = "community"
-          weight = 2
+[[params.social]]
+icon = "ti-github"
+link = "https://github.com/librecorps"
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "FOSS Product Management"
-          url = "product-management"
-          weight = 3
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/jflory7"
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "AI Ethics & Transparency"
-          url = "ai"
-          weight = 4
+[[params.social]]
+icon = "ti-comment-alt"
+link = "https://telegram.me/librecorps"
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "Tooling & Automation"
-          url = "tooling"
-          weight = 5
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "Outreach & Marketing"
-          url = "outreach"
-          weight = 6
+################################ English Language ######################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+weight = 1
+home = "Home"
+copyright = "Creative Commons BY-NC-SA 4.0"
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "Legal"
-          url = "legal"
-          weight = 7
-
-    # banner
-    [Languages.en.params.banner]
-      title = "LibreCorps Knowledge Base"
-      description = "Resources for building sustainable open source projects, curated by RIT LibreCorps"
-      image = "images/banner.jpg"
-      placeholder = "Have a question? Search our resources"
-
-    # Topics
-    [Languages.en.params.topics]
-      title = "Browse by category"
-
-    # footer social icon
-    [[Languages.en.socialIcon]]
-      icon = "ti-github"
-      linkURL = "https://github.com/librecorps/"
-
-    [[Languages.en.socialIcon]]
-      icon = "ti-twitter-alt"
-      linkURL = "https://twitter.com/jflory7"
-
-    [[Languages.en.socialIcon]]
-      icon = "ti-vimeo-alt"
-      linkURL = "#"
-
-    [[Languages.en.socialIcon]]
-      icon = "ti-instagram"
-      linkURL = "#"
+# banner
+[Languages.en.params.banner]
+title = "LibreCorps Knowledge Base"
+subtitle = "Resources for building sustainable open source projects, curated by RIT LibreCorps"
+bg_image = "images/banner.jpg"
+placeholder = "Have a question? Search our resources"
