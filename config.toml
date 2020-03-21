@@ -2,6 +2,8 @@
 baseURL = "https://librecorps.github.io/resources/"
 theme = "dot"
 title = "LibreCorps Resources"
+enableEmoji = true
+enableGitInfo = true
 
 [markup.goldmark.renderer]
 unsafe = true
