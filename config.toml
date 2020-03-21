@@ -21,20 +21,15 @@ whiteColor = "#ffffff"
   dateFormat = "2 January 2006"
   home = "Home"
   logo = "LibreCorps"
-  copyright = "TODO: Put license information here"
+  copyright = "Creative Commons BY-NC-SA 4.0"
 
     # navigation
     [Languages.en.menu]
 
       [[Languages.en.menu.main]]
         weight = 2
-        name = "Faq"
+        name = "FAQ"
         url = "faq"
-
-      [[Languages.en.menu.main]]
-        weight = 2
-        name = "contact"
-        url = "contact"
 
       [[Languages.en.menu.main]]
         weight = 2
@@ -78,41 +73,25 @@ whiteColor = "#ffffff"
           url = "legal"
           weight = 7
 
-
-
-
     # banner
     [Languages.en.params.banner]
       title = "LibreCorps Knowledge Base"
-      description = "Here you can find a comprehensive database of resources related to the LibreCorps program"
+      description = "Resources for building sustainable open source projects, curated by RIT LibreCorps"
       image = "images/banner.jpg"
-      placeholder = "Have a question? Just ask here or enter terms"
+      placeholder = "Have a question? Search our resources"
 
     # Topics
     [Languages.en.params.topics]
-      title = "Find your answer by subject"
-
-    # call to action
-    [Languages.en.params.cta]
-      enable = true
-      title = "Didn't find an answer to your question?"
-      description = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
-      btnText = "contact us"
-      btnURL = "contact"
-
-    # contact
-    [Languages.en.params.contact]
-      title = "Got Any Questions"
-      content = "Submit the form and confirm your email address at <a class='text-primary' href='https://formspree.io/'>Formspree</a> Then add the following lines to contact page YAML Front Matter."
+      title = "Browse by category"
 
     # footer social icon
     [[Languages.en.socialIcon]]
-      icon = "ti-facebook"
-      linkURL = "#"
+      icon = "ti-github"
+      linkURL = "https://github.com/librecorps/"
 
     [[Languages.en.socialIcon]]
       icon = "ti-twitter-alt"
-      linkURL = "#"
+      linkURL = "https://twitter.com/jflory7"
 
     [[Languages.en.socialIcon]]
       icon = "ti-vimeo-alt"
