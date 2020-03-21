@@ -1,5 +1,5 @@
 baseURL = "https://librecorps.github.io/resources/"
-theme = "dot-hugo-documentation-theme"
+theme = "dot"
 defaultContentLanguage = "en"
 home = "/"
 
