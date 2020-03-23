@@ -23,26 +23,26 @@ hasChildren = true
 
       [[menu.main]]
       parent = "pages"
-      name = "Community Strategy"
-      url = "community"
+      name = "AI Ethics & Transparency"
+      url = "ai"
       weight = 10
 
       [[menu.main]]
       parent = "pages"
-      name = "FOSS Product Management"
-      url = "product-management"
+      name = "Community Strategy"
+      url = "community"
       weight = 20
 
       [[menu.main]]
       parent = "pages"
-      name = "AI Ethics & Transparency"
-      url = "ai"
+      name = "Legal"
+      url = "legal"
       weight = 30
 
       [[menu.main]]
       parent = "pages"
-      name = "Tooling & Automation"
-      url = "tooling"
+      name = "Open Hardware"
+      url = "hardware"
       weight = 40
 
       [[menu.main]]
@@ -53,9 +53,15 @@ hasChildren = true
 
       [[menu.main]]
       parent = "pages"
-      name = "Legal"
-      url = "legal"
+      name = "Product Management"
+      url = "product-management"
       weight = 60
+
+      [[menu.main]]
+      parent = "pages"
+      name = "Tooling & Automation"
+      url = "tooling"
+      weight = 70
 
 
 ############################# Default parameters ##########################
