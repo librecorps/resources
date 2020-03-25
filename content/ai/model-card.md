@@ -1,14 +1,14 @@
 ---
 title: "Machine Learning Model Card"
-date: 2019-09-03T11:02:05+06:00
+date: 2019-09-03
 type: "post"
-weight : 2
+weight: 2
 ---
-## **Model Title**
 
-_The following is simply an editable version of the model card proposed in_ [_https://arxiv.org/abs/1810.03993_](https://arxiv.org/abs/1810.03993)
+_The following is an editable version of the model card proposed in [arxiv.org/abs/1810.03993](https://arxiv.org/abs/1810.03993)._
 
-_Model Details._
+
+## Model details
 
 Basic information about the model.
 
@@ -21,7 +21,8 @@ Basic information about the model.
 - License
 - Maintainer contact details
 
-_Intended Use_
+
+## Intended use
 
 Use cases that were envisioned during development.
 
@@ -29,14 +30,16 @@ Use cases that were envisioned during development.
 - Primary intended users
 - Out-of-scope use cases
 
-_Factors_
+
+## Factors
 
 Factors could include demographic or phenotypic groups, environmental conditions, technical attributes, or others.
 
 - Relevant factors
 - Evaluation factors
 
-_Metrics_
+
+## Metrics
 
 Metrics should be chosen to reflect potential real-world impacts of the model.
 
@@ -44,7 +47,8 @@ Metrics should be chosen to reflect potential real-world impacts of the model.
 - Decision thresholds
 - Variation approaches
 
-_Evaluation Data_
+
+## Evaluation data
 
 Details on the dataset(s) used for the quantitative analyses in the card.
 
@@ -52,27 +56,40 @@ Details on the dataset(s) used for the quantitative analyses in the card.
 - Motivation
 - Preprocessing
 
-_Training Data._
 
-May not be possible to provide in practice. When possible, this section should mirror Evaluation Data. If such detail is not possible, minimal allowable information should be provided here, such as details of the distribution over various factors in the training datasets.
+## Training data
 
-_Quantitative Analyses_
+May not be possible to provide in practice.
+When possible, this section should mirror Evaluation Data.
+If such detail is not possible, minimal allowable information should be provided here, such as details of the distribution over various factors in the training datasets.
+
+
+## Quantitative analyses
 
 Quantitative analyses should be broken down by the chosen factors.
 
 - Unitary results
 - Intersectional results
 
-_Ethical Considerations_
+
+## Ethical considerations
 
 In this section, you should explore and document the following:
 
-- **Sensitive Data** _: Does the model use any sensitive data (e.g., protected classes)?_
-- **Human life** _: Is the model intended to inform decisions about matters central to human life or flourishing – e.g., health or safety? Or could it be used in such a way?_
-- **Mitigations** _: What risk mitigation strategies were used during model development?_
-- **Risks and harms** _: What risks may be present in model usage? Try to identify the potential recipients, likelihood, and magnitude of harms. If these cannot be determined, note that they were considered but remain unknown._
-- **Use cases** _: Are there any known model use cases that are especially fraught?_
+- **Sensitive Data**:
+  Does the model use any sensitive data (e.g., protected classes)?
+- **Human life**:
+  Is the model intended to inform decisions about matters central to human life or flourishing – e.g., health or safety? Or could it be used in such a way?
+- **Mitigations**:
+  What risk mitigation strategies were used during model development?
+- **Risks and harms**:
+  What risks may be present in model usage?
+  Try to identify the potential recipients, likelihood, and magnitude of harms.
+  If these cannot be determined, note that they were considered but remain unknown.
+- **Use cases**:
+  Are there any known model use cases that are especially fraught?
 
-_Caveats and Recommendations_
+
+## Caveats and recommendations
 
 This section should list additional concerns that were not covered in the previous sections.
