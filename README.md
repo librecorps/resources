@@ -18,7 +18,7 @@ Here is what you can find here:
 * [Legal](https://librecorps.github.io/resources/legal)
 * [Open Hardware](https://librecorps.github.io/resources/hardware)
 * [Outreach & Marketing](https://librecorps.github.io/resources/outreach)
-* [Product Management](https://librecorps.github.io/resources/product-management)
+* [Project Management](https://librecorps.github.io/resources/project-management)
 * [Tooling & Automation](https://librecorps.github.io/resources/tooling)
 
 

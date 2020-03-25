@@ -16,7 +16,7 @@ As we have used markdown for majority of notes, I think keeping our notes in mar
 │   └── [  169]  _index.en.md
 ├── [ 4.0K]  outreach/
 │   └── [  201]  _index.en.md
-├── [ 4.0K]  product-management/
+├── [ 4.0K]  project-management/
 │   ├── [  186]  _index.en.md
 │   └── [ 3.4K]  preliminary-interview-template.en.md
 └── [ 4.0K]  tooling/

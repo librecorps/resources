@@ -53,8 +53,8 @@ hasChildren = true
 
       [[menu.main]]
       parent = "pages"
-      name = "Product Management"
-      url = "product-management"
+      name = "Project Management"
+      url = "project-management"
       weight = 60
 
       [[menu.main]]
