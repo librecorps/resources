@@ -21,6 +21,7 @@ While it can exist in the source repo, it will not be visible on the main site u
 * [Measuring Openness in Open Source Hardware with the Open-o-Meter](https://www.sciencedirect.com/science/article/pii/S2212827118312095?via%3Dihub)
 * [Open HW refs in Zotero (may be a bit messy)](https://www.zotero.org/groups/2312397/open_hardware/library)
 * [Collaborative list of open hw resources](https://github.com/Open-Hardware-Leaders/Resources): This is the nirvana of open information on Open Hardware :heart:
+* [Leveraging Open Hardware to Alleviate the Burden of COVID-19 on Global Health Systems](https://www.preprints.org/manuscript/202003.0362/v1)
 
 
 ## Example projects
@@ -92,6 +93,17 @@ Also provided by Pen:
 > The huge benefit is that no one can take what you made, add some changes, and turn it into a closed source product.
 > This means that you will benefit from others' contributions, especially if you managed to build a community around your product.
 
+### [Don't Fear the Patent Clause!](https://linuxfestnorthwest.org/conferences/lfnw18/program/proposals/72)
+
+Provided by Deb Nicholson, probably worth reading/watching over this:
+
+> Several different patent clauses are embedded in modern open source licenses and there's some confusion about exactly what they each mean.
+> Most developers would prefer to have nothing to do with patents or patent clauses, but avoiding the topic isn't a smart strategy.
+> None of the popular clauses have been tested in court, so no one can predict exactly how the courts might deal with hybrid copyright and patent licenses.
+>
+> That said, savvy open source participants can still make some reasonable assumptions based on the license author's intentions, trends in patent law and the way other common open source licenses have functioned.
+> Understanding the players and the history that lead to patent clauses in open source licenses will help practitioners make informed choices about what licenses to apply to their own work and how these various licenses can help large multi-stakeholder projects.
+
 
 ## Research contributors
 
@@ -106,3 +118,4 @@ Names of people I need to attribute for their support in creating this research 
 * Alexander Kutschera
 * Andrew Lamb
 * [Pen-Yuan Hsing](https://www.penonek.com/)
+* [Deb Nicholson](https://sfconservancy.org/about/staff/#deb)
