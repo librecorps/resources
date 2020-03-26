@@ -48,6 +48,51 @@ While it can exist in the source repo, it will not be visible on the main site u
 * risc-v: https://riscv.org/risc-v-history/
 
 
+## Detailed case studies
+
+All the info passed on to me from Pen:
+
+### [Opentrons](https://opentrons.com/)
+
+> Several highly successful and well-regarded biology/chemistry lab automation robots.
+> By going 100% open source they were able to substantially reduce costs and their products' prices undercuts the competition sometimes by 10x.
+> If I remember correctly Opentrons was able to get venture capital funding:
+>
+> Having worked in biology labs myself, I can attest to how revolutionary their open source business model is.
+> It doesn't just save cost, but because everything is open source, scientists who use their products don't get vendor lock-in and some even create their own modifications.
+> This is shared and helps build the ecosystem around Opentrons.
+
+### [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/)
+
+> They bootstrapped their business by starting small plus a round of successful crowdfunding.
+> To know my knowledge this company is now self-sufficient (or close to) and their keyboard gets amazing reviews.
+> Because it's completely open source hardware (and firmware), users have gone crazy with modifications giving them essentially free advertising.
+>
+> Full disclosure: I have one of their keyboards.
+
+### Crowd Supply
+
+> BTW, for open source hardware crowdfunding, [Crowd Supply](https://www.crowdsupply.com/) is a popular platform.
+> Not all project on it are open source, but many are.
+
+### Arduino
+
+> This is probably the most famous example.
+> The official Arduino boards are 100% open source, and again the ecosystem that being open source allows has given them tons of free publicity, and user contributions feed into their future products lowering R&D costs.
+> The business strategy for the Arduino is that anyone can directly copy, manufacture, and sell clones, but they cannot slap them "Arduino" label on it (I believe "Arduino" itself is trademarked, which does not affect its open source nature), only boards made by the company can be officially called Arduino.
+
+
+## Licensing
+
+Also provided by Pen:
+
+> I also note that there are different licensing strategies for open source hardware.
+> For example, the [newly released 2.0 version of the CERN open hardware license](https://home.cern/news/news/knowledge-sharing/cern-updates-its-open-hardware-licence) has "weak" and "strongly" reciprocal, and non-reciprocal versions.
+> A reciprocal license is similar to copyleft for software licenses, meaning others who make use of your work must share their results under the same license.
+> The huge benefit is that no one can take what you made, add some changes, and turn it into a closed source product.
+> This means that you will benefit from others' contributions, especially if you managed to build a community around your product.
+
+
 ## Research contributors
 
 Names of people I need to attribute for their support in creating this research (probably should go index page):
@@ -60,3 +105,4 @@ Names of people I need to attribute for their support in creating this research 
 * Jose Urra
 * Alexander Kutschera
 * Andrew Lamb
+* [Pen-Yuan Hsing](https://www.penonek.com/)
