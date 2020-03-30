@@ -14,6 +14,7 @@ The resources linked here are intended to give you a better idea of open source 
 
 * [The Open Source Definition (Annotated)](https://opensource.org/osd-annotated) - _Open Source Initiative_
 * [Open Source Licenses by Name](https://opensource.org/licenses/alphabetical) - _Open Source Initiative_
+* [What is copyleft?](https://opensource.com/resources/what-is-copyleft) - _[Ben Cotton](https://twitter.com/FunnelFiasco), Opensource.com_
 
 
 ## Choosing a license
