@@ -21,6 +21,9 @@ The resources linked here are intended to give you a better idea of open source 
 
 * [Choose an open source license](https://choosealicense.com/) - _curated by GitHub_
 * [TLDRLegal - Software licenses explained in plain English](https://tldrlegal.com/) - _FOSSA, Inc_
+* Copyleft licenses:
+    * [What is the difference between GPL, AGPL and LGPL licenses?](https://www.quora.com/What-is-the-difference-between-GPL-AGPL-and-LGPL-licenses) - _Quora_
+    * [Why the Affero GPL](https://www.gnu.org/licenses/why-affero-gpl.en.html) - _Free Software Foundation (FSF)_
 
 
 ## License examples
