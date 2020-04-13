@@ -41,12 +41,6 @@ hasChildren = true
 
       [[menu.main]]
       parent = "pages"
-      name = "Open Hardware"
-      url = "hardware"
-      weight = 40
-
-      [[menu.main]]
-      parent = "pages"
       name = "Outreach & Marketing"
       url = "outreach"
       weight = 50
