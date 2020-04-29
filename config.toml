@@ -35,12 +35,6 @@ hasChildren = true
 
       [[menu.main]]
       parent = "pages"
-      name = "Legal"
-      url = "legal"
-      weight = 30
-
-      [[menu.main]]
-      parent = "pages"
       name = "Outreach & Marketing"
       url = "outreach"
       weight = 50
