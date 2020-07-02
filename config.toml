@@ -39,18 +39,6 @@ hasChildren = true
       url = "outreach"
       weight = 50
 
-      [[menu.main]]
-      parent = "pages"
-      name = "Project Management"
-      url = "project-management"
-      weight = 60
-
-      [[menu.main]]
-      parent = "pages"
-      name = "Tooling & Automation"
-      url = "tooling"
-      weight = 70
-
 
 ############################# Default parameters ##########################
 [params]

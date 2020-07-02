@@ -15,11 +15,7 @@ Here is what you can find here:
 
 * [AI Ethics & Transparency](https://librecorps.github.io/resources/ai)
 * [Community Strategy](https://librecorps.github.io/resources/community)
-* [Legal](https://librecorps.github.io/resources/legal)
-* [Open Hardware](https://librecorps.github.io/resources/hardware)
 * [Outreach & Marketing](https://librecorps.github.io/resources/outreach)
-* [Project Management](https://librecorps.github.io/resources/project-management)
-* [Tooling & Automation](https://librecorps.github.io/resources/tooling)
 
 
 ## Legal
