@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LibreCorps Resources</title>
+    <link>https://librecorps.github.io/resources/</link>
+    <description>Recent content on LibreCorps Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://librecorps.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Ethics &amp; Transparency Roadmap - Template</title>
+      <link>https://librecorps.github.io/resources/ai/milestone-roadmap/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/ai/milestone-roadmap/</guid>
+      <description>Executive Summary This is your at a glance version of the document. Details and resources are below.
+ Milestone 1: Understanding the Data Flow  Data Ecosystem Map Information Sharing Protocol   Milestone 2: Understanding the Algorithm  Dataset Structure Common Traps Mitigations   Milestone 3: Sharing the Model  Model Card Created    Understanding Data Flow  Primary Goal: Create documentation that ensures you know what data you&amp;rsquo;re using and how you plan on sharing it.</description>
+    </item>
+    
+    <item>
+      <title>Common traps to avoid when building AI systems</title>
+      <link>https://librecorps.github.io/resources/ai/traps/</link>
+      <pubDate>Tue, 03 Sep 2019 11:02:05 +0600</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/ai/traps/</guid>
+      <description>Assessing common mistakes that lead to unintended side effects.
+Framing Trap Failure to model the entire system over which a social criterion, such as fairness, will be enforced.
+For this trap, we will want to look at our outcome variables. Are these variables a proxy of the actual outcome you wish to achieve? What evidence of existing negative bias currently exists with regards to these variables?
+Portability Trap Failure to understand how repurposing algorithmic solutions designed for one social context may be misleading, inaccurate, or otherwise do harm when applied to a different context.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Model Card</title>
+      <link>https://librecorps.github.io/resources/ai/model-card/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/ai/model-card/</guid>
+      <description>The following is an editable version of the model card proposed in arxiv.org/abs/1810.03993.
+Model details Basic information about the model.
+ Person or organization developing model Date of last update Model version Model type (Information about training algorithms, parameters, fairness constraints or other applied approaches, and features) Paper or other resource for more information Citation details License Maintainer contact details  Intended use Use cases that were envisioned during development.</description>
+    </item>
+    
+    <item>
+      <title>Community outreach reading list</title>
+      <link>https://librecorps.github.io/resources/outreach/reading-list/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/outreach/reading-list/</guid>
+      <description>This reading list focuses on ways to promote and share your open source project with the world. Generally these resources are more helpful once you have built up the foundation for your open source project. You should have a game plan for community management in place before spending a lot of time on outreach.
+ What success really looks like in open source - Nadia Eghbal @nayafia  </description>
+    </item>
+    
+    <item>
+      <title>Open communities reading list</title>
+      <link>https://librecorps.github.io/resources/community/reading-list/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/community/reading-list/</guid>
+      <description>This page is a collection of resources around open source community management and strategy. It is a catch-all reading list for anything related to supporting the people and humans behind the open source projects. If you are familiar with the role of a developer advocate, there is some overlap between the responsibilities of that type of position.
+Foundations  Open Source Guides - curated by GitHub  Covers a broad range of topics and concepts to allow you to focus in on specific areas   Introduction to Open Source - Digital Ocean Frequently asked questions about open source - Opensource.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://librecorps.github.io/resources/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/readme/</guid>
+      <description>Legal notice 
+Dual-licensed under Mozilla Public License 2.0 and Creative Commons BY-NC-SA 4.0. Software, code, and/or programmatic elements of this repo are licensed under the MPL 2.0. Content, including but not limited to milestone templates, rubrics, and educational resources, are licensed under the CC BY-NC-SA 4.0.</description>
+    </item>
+    
+  </channel>
+</rss>

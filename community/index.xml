@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Strategy on LibreCorps Resources</title>
+    <link>https://librecorps.github.io/resources/community/</link>
+    <description>Recent content in Community Strategy on LibreCorps Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://librecorps.github.io/resources/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open communities reading list</title>
+      <link>https://librecorps.github.io/resources/community/reading-list/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/community/reading-list/</guid>
+      <description>This page is a collection of resources around open source community management and strategy. It is a catch-all reading list for anything related to supporting the people and humans behind the open source projects. If you are familiar with the role of a developer advocate, there is some overlap between the responsibilities of that type of position.
+Foundations  Open Source Guides - curated by GitHub  Covers a broad range of topics and concepts to allow you to focus in on specific areas   Introduction to Open Source - Digital Ocean Frequently asked questions about open source - Opensource.</description>
+    </item>
+    
+  </channel>
+</rss>

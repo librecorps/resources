@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outreach &amp; Marketing on LibreCorps Resources</title>
+    <link>https://librecorps.github.io/resources/outreach/</link>
+    <description>Recent content in Outreach &amp; Marketing on LibreCorps Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://librecorps.github.io/resources/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community outreach reading list</title>
+      <link>https://librecorps.github.io/resources/outreach/reading-list/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://librecorps.github.io/resources/outreach/reading-list/</guid>
+      <description>This reading list focuses on ways to promote and share your open source project with the world. Generally these resources are more helpful once you have built up the foundation for your open source project. You should have a game plan for community management in place before spending a lot of time on outreach.
+ What success really looks like in open source - Nadia Eghbal @nayafia  </description>
+    </item>
+    
+  </channel>
+</rss>
